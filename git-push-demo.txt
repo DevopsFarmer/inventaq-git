@@ -1,0 +1,6 @@
+1. create file in local computer (L.R)
+2. open git bash
+3. git status
+4. git add .
+5. git commit -m "YOUR_COMMIT_MESSAGE"
+6. git push
